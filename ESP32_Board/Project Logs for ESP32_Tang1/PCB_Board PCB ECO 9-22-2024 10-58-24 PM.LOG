@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetR10_1 Pin=JP3-2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetJP3_2
+Added Room: Name=U_POWER

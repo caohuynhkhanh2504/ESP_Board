@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=F3 Old Footprint=1812_FUSE New Footprint=Fuse4
+Change Component Footprint: Designator=F4 Old Footprint=1812_FUSE New Footprint=Fuse4
+Change Component Footprint: Designator=F5 Old Footprint=1812_FUSE New Footprint=Fuse4
+Change Component Footprint: Designator=F6 Old Footprint=1812_FUSE New Footprint=Fuse4
+Change Component Comment : Designator=F3 Old Comment=0.1A New Comment=0.5A
+Change Component Comment : Designator=F4 Old Comment=0.1A New Comment=0.5A
+Change Component Comment : Designator=F5 Old Comment=0.1A New Comment=0.5A
+Change Component Comment : Designator=F6 Old Comment=0.1A New Comment=0.5A
+Change component parameters: Designator = "F3" ("F3"); Footprint = "1812_FUSE"; UniqueID = "\KAZWASNP\USHTWNXA" ("\KAZWASNP\USHTWNXA")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4" ("F4"); Footprint = "1812_FUSE"; UniqueID = "\KAZWASNP\HIHSFHQA" ("\KAZWASNP\HIHSFHQA")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5" ("F5"); Footprint = "1812_FUSE"; UniqueID = "\CSWVSHJY\XLMYUFIH" ("\CSWVSHJY\XLMYUFIH")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6" ("F6"); Footprint = "1812_FUSE"; UniqueID = "\CSWVSHJY\QHGCJUZX" ("\CSWVSHJY\QHGCJUZX")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"

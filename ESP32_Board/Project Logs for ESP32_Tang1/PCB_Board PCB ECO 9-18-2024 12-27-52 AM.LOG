@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=+12V Pin=F7-2
+Removed Member From Class: ClassName=U_POWER Member=F7
+Change Component Footprint: Designator=F3 Old Footprint=Fuse4 New Footprint=FUSC3115X66N
+Change Component Footprint: Designator=F4 Old Footprint=Fuse4 New Footprint=FUSC3115X66N
+Change Component Footprint: Designator=F5 Old Footprint=Fuse4 New Footprint=FUSC3115X66N
+Change Component Footprint: Designator=F6 Old Footprint=Fuse4 New Footprint=FUSC3115X66N
+Change Component Comment : Designator=F3 Old Comment=0.5A New Comment=0466.200NRHF
+Change Component Comment : Designator=F4 Old Comment=0.5A New Comment=0466.200NRHF
+Change Component Comment : Designator=F5 Old Comment=0.5A New Comment=0466.200NRHF
+Change Component Comment : Designator=F6 Old Comment=0.5A New Comment=0466.200NRHF
+Change component parameters: Designator = "F3" ("F3"); Footprint = "Fuse4"; UniqueID = "\KAZWASNP\WHSGLVMW" ("\KAZWASNP\WHSGLVMW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466.200NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4" ("F4"); Footprint = "Fuse4"; UniqueID = "\KAZWASNP\AOJVYLLK" ("\KAZWASNP\AOJVYLLK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466.200NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5" ("F5"); Footprint = "Fuse4"; UniqueID = "\CSWVSHJY\UOVYYNYW" ("\CSWVSHJY\UOVYYNYW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466.200NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6" ("F6"); Footprint = "Fuse4"; UniqueID = "\CSWVSHJY\OKHRNCYN" ("\CSWVSHJY\OKHRNCYN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466.200NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0466.200NRHF/Littelfuse+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C124(JP4-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61300821821"; VariantName = "[No Variations]"
+Added Component: Designator=C125(1206_CAP)
+Added Component: Designator=C126(1206_CAP)
+Added Component: Designator=C127(0805_Cap)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C128(0805_Cap)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C76-1
+Added Pin To Net: NetName=-12V Pin=C124-5
+Added Pin To Net: NetName=-12V Pin=C124-6
+Added Pin To Net: NetName=-12V Pin=C124-7
+Added Pin To Net: NetName=-12V Pin=C124-8
+Added Pin To Net: NetName=-12V Pin=C125-1
+Added Pin To Net: NetName=GND Pin=C125-2
+Added Pin To Net: NetName=GND Pin=C126-2
+Added Pin To Net: NetName=GND Pin=C127-2
+Added Pin To Net: NetName=-12V Pin=C128-1
+Added Pin To Net: NetName=GND Pin=C128-2
+Added Pin To Net: NetName=+12V Pin=L6-2
+Added Pin To Net: NetName=12V Pin=C124-1
+Added Pin To Net: NetName=12V Pin=C124-2
+Added Pin To Net: NetName=12V Pin=C124-3
+Added Pin To Net: NetName=12V Pin=C124-4
+Added Pin To Net: NetName=12V Pin=C126-1
+Added Pin To Net: NetName=12V Pin=C127-1
+Added Net: Name=12V
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C124 JP4x2
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C125 10uF
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C126 10uF
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C127 105
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C128 105

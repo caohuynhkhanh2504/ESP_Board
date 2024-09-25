@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=+12V Pin=C71-1
+Removed Pin From Net: NetName=24V Pin=C72-1
+Removed Pin From Net: NetName=24V Pin=C73-1
+Removed Pin From Net: NetName=+12V Pin=C76-1
+Removed Pin From Net: NetName=24V Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=24V Pin=D12-1
+Removed Pin From Net: NetName=24V Pin=IC2-3
+Removed Pin From Net: NetName=+12V Pin=L6-2
+Removed Pin From Net: NetName=GND Pin=R93-1
+Removed Member From Class: ClassName=U_POWER Member=C75
+Removed Member From Class: ClassName=U_POWER Member=C76
+Removed Member From Class: ClassName=U_POWER Member=C?
+Removed Member From Class: ClassName=U_POWER Member=D12
+Removed Member From Class: ClassName=U_POWER Member=IC2
+Change Component Footprint: Designator=C70 Old Footprint=8x12 radial capacitor New Footprint=0805_Cap
+Change Component Footprint: Designator=C72 Old Footprint=8x12 radial capacitor New Footprint=0805_Cap
+Change Component Footprint: Designator=C73 Old Footprint=8x12 radial capacitor New Footprint=1206_CAP
+Change Component Footprint: Designator=C71 Old Footprint=0805_Cap New Footprint=8x12 radial capacitor
+Change Component Comment : Designator=R93 Old Comment=2.1k New Comment=2.2k
+Change Component Comment : Designator=C71 Old Comment=104 New Comment=220 35V
+Change Component Comment : Designator=R92 Old Comment=240 New Comment=2k
+Change Component Comment : Designator=C70 Old Comment=220 35V New Comment=104
+Change Component Comment : Designator=C72 Old Comment=220 35V New Comment=104
+Change Component Comment : Designator=C73 Old Comment=220 35V New Comment=106
+Change component parameters: Designator = "C70" ("C70"); Footprint = "8x12 radial capacitor"; UniqueID = "\PYKKASQG\KQREHUJW" ("\PYKKASQG\KQREHUJW")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C71" ("C71"); Footprint = "0805_Cap"; UniqueID = "\PYKKASQG\WQFPJKTA" ("\PYKKASQG\WQFPJKTA")
+Change component parameters: Designator = "C72" ("C72"); Footprint = "8x12 radial capacitor"; UniqueID = "\PYKKASQG\VTNDHWGI" ("\PYKKASQG\VTNDHWGI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C73" ("C73"); Footprint = "8x12 radial capacitor"; UniqueID = "\PYKKASQG\MGZEVSWE" ("\PYKKASQG\MGZEVSWE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=R49(0603_Res)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005468"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=VR4(TO170P1524X483-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2577S-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM2577S-ADJ/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Z2(SMB - DO-214AA)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1SMA5926/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1SMA5926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1SMA5926/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1SMA5926/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=5V Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=5V Pin=C72-1
+Added Pin To Net: NetName=5V Pin=L6-1
+Added Pin To Net: NetName=+12V Pin=R49-2
+Added Pin To Net: NetName=GND Pin=R92-1
+Added Pin To Net: NetName=GND Pin=TVS21-2
+Added Pin To Net: NetName=GND Pin=VR4-3
+Added Pin To Net: NetName=5V Pin=VR4-5
+Added Pin To Net: NetName=GND Pin=VR4-6
+Added Pin To Net: NetName=+12V Pin=Z2-1
+Added Pin To Net: NetName=NetC73_1 Pin=C73-1
+Added Pin To Net: NetName=NetC73_1 Pin=R93-1
+Added Net: Name=NetC73_1
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=VR4-4
+Added Pin To Net: NetName=NetL6_2 Pin=Z2-2
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_1 Pin=R92-2
+Added Pin To Net: NetName=NetR49_1 Pin=VR4-2
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR93_2 Pin=R93-2
+Added Pin To Net: NetName=NetR93_2 Pin=VR4-1
+Added Net: Name=NetR93_2
+Added Member To Class: ClassName=U_POWER Member=Component R49 17.4k
+Added Member To Class: ClassName=U_POWER Member=Component VR4 LM2577S-ADJ
+Added Member To Class: ClassName=U_POWER Member=Component Z2 SS34
+Added Room: Name=U_POWER

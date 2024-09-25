@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetP3_1 Pin=R11-2
+Removed Pin From Net: NetName=NetP3_2 Pin=R15-2
+Removed Pin From Net: NetName=NetP3_3 Pin=R19-2
+Removed Pin From Net: NetName=NetP3_4 Pin=R23-2
+Removed Pin From Net: NetName=DI1 Pin=U3-20
+Removed Pin From Net: NetName=DI3 Pin=U3-25
+Removed Pin From Net: NetName=DI4 Pin=U3-26
+Removed Pin From Net: NetName=DI2 Pin=U3-46
+Removed Pin From Net: NetName=NetP3_1 Pin=U10-2
+Removed Pin From Net: NetName=NetP3_2 Pin=U10-4
+Removed Pin From Net: NetName=NetP3_3 Pin=U10-6
+Removed Pin From Net: NetName=NetP3_4 Pin=U10-8
+Added Pin To Net: NetName=NetP3_4 Pin=R11-2
+Added Pin To Net: NetName=NetP3_3 Pin=R15-2
+Added Pin To Net: NetName=NetP3_2 Pin=R19-2
+Added Pin To Net: NetName=NetP3_1 Pin=R23-2
+Added Pin To Net: NetName=DI4 Pin=U3-20
+Added Pin To Net: NetName=DI2 Pin=U3-25
+Added Pin To Net: NetName=DI1 Pin=U3-26
+Added Pin To Net: NetName=DI3 Pin=U3-46
+Added Pin To Net: NetName=NetP3_4 Pin=U10-2
+Added Pin To Net: NetName=NetP3_3 Pin=U10-4
+Added Pin To Net: NetName=NetP3_2 Pin=U10-6
+Added Pin To Net: NetName=NetP3_1 Pin=U10-8
+Change Net Name : Old Net Name=DI1 New Net Name=DI4
+Change Net Name : Old Net Name=DI2 New Net Name=DI3
+Change Net Name : Old Net Name=DI3 New Net Name=DI2
+Change Net Name : Old Net Name=DI4 New Net Name=DI1

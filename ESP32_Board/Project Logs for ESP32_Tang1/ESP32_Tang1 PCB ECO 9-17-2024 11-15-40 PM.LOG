@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=3V3_MCU_ESP Pin=C111-3
+Removed Pin From Net: NetName=3V3_MCU_ESP Pin=C111-4
+Removed Pin From Net: NetName=GND Pin=H1-2
+Removed Pin From Net: NetName=SPI_SCK_ESP32 Pin=H1-3
+Removed Pin From Net: NetName=SPI_MISO_ESP32 Pin=H1-4
+Removed Pin From Net: NetName=SPI_MOSI_ESP32 Pin=H1-5
+Removed Pin From Net: NetName=i_GND Pin=H2-3
+Removed Pin From Net: NetName=i_GND Pin=H2-4
+Removed Pin From Net: NetName=I2C_SCL_ESP Pin=H3-1
+Removed Pin From Net: NetName=I2C_SDA_ESP Pin=H3-2
+Removed Pin From Net: NetName=3V3_MCU_ESP Pin=H3-3
+Removed Pin From Net: NetName=GND Pin=H3-4
+Removed Pin From Net: NetName=GND Pin=H4-1
+Removed Pin From Net: NetName=EN Pin=H4-2
+Removed Pin From Net: NetName=IO00 Pin=H4-3
+Removed Pin From Net: NetName=UART0_RX_ESP32 Pin=H4-4
+Removed Pin From Net: NetName=UART0_TX_ESP32 Pin=H4-5
+Removed Pin From Net: NetName=5V Pin=H4-6
+Removed Pin From Net: NetName=3V3_MCU_STM Pin=H14-1
+Removed Pin From Net: NetName=GND Pin=H14-2
+Removed Pin From Net: NetName=SPI_MISO Pin=H14-3
+Removed Pin From Net: NetName=SPI_MOSI Pin=H14-4
+Removed Pin From Net: NetName=SPI_SCK Pin=H14-5
+Removed Pin From Net: NetName=SPI_CS1 Pin=H14-6
+Removed Pin From Net: NetName=5V Pin=HD1-1
+Removed Pin From Net: NetName=I2C2_SCL_STM Pin=HD1-2
+Removed Pin From Net: NetName=I2C2_SDA_STM Pin=HD1-3
+Removed Pin From Net: NetName=PB0 Pin=HD1-4
+Removed Pin From Net: NetName=PB1 Pin=HD1-6
+Removed Pin From Net: NetName=GND Pin=HD1-10
+Removed Pin From Net: NetName=PA15 Pin=JP2-1
+Removed Pin From Net: NetName=PC13 Pin=JP2-2
+Removed Pin From Net: NetName=PC14 Pin=JP2-3
+Removed Pin From Net: NetName=PC15 Pin=JP2-4
+Removed Member From Class: ClassName=IoT_Board_ESP32 Member=H3
+Removed Member From Class: ClassName=IoT_Board_ESP32 Member=H4
+Removed Member From Class: ClassName=IoT_Board_ESP32 Member=H14
+Change Component Comment : Designator=H12 Old Comment=Header 4P 2.54 Duc Cong New Comment=NAP_STM
+Change Component Comment : Designator=H1 Old Comment=Header 6P New Comment=NAP_ESP
+Change Component Comment : Designator=HD1 Old Comment=IDC 5x2 New Comment=IO
+Change Component Comment : Designator=JP1 Old Comment=JP 1x4 2.54 New Comment=LCD
+Change Component Comment : Designator=JP2 Old Comment=JP 1x4 2.54 New Comment=LCD
+Added Component: Designator=C119(1206_CAP)
+Added Component: Designator=C120(0805_Cap)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C121(1206_CAP)
+Added Component: Designator=C122(JP4-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61300821821"; VariantName = "[No Variations]"
+Added Component: Designator=C123(0805_Cap)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=HD2(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP6(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C111-3
+Added Pin To Net: NetName=5V Pin=C111-4
+Added Pin To Net: NetName=5V Pin=C119-1
+Added Pin To Net: NetName=GND Pin=C119-2
+Added Pin To Net: NetName=5V Pin=C120-1
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C121-1
+Added Pin To Net: NetName=GND Pin=C121-2
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C122-1
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C122-2
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C122-3
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C122-4
+Added Pin To Net: NetName=GND Pin=C122-5
+Added Pin To Net: NetName=GND Pin=C122-6
+Added Pin To Net: NetName=GND Pin=C122-7
+Added Pin To Net: NetName=GND Pin=C122-8
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C123-1
+Added Pin To Net: NetName=GND Pin=C123-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=EN Pin=H1-2
+Added Pin To Net: NetName=IO00 Pin=H1-3
+Added Pin To Net: NetName=UART0_RX_ESP32 Pin=H1-4
+Added Pin To Net: NetName=UART0_TX_ESP32 Pin=H1-5
+Added Pin To Net: NetName=5V Pin=H1-6
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=PB0 Pin=HD1-1
+Added Pin To Net: NetName=PA15 Pin=HD1-2
+Added Pin To Net: NetName=PB1 Pin=HD1-3
+Added Pin To Net: NetName=PC13 Pin=HD1-4
+Added Pin To Net: NetName=PC14 Pin=HD1-6
+Added Pin To Net: NetName=PC15 Pin=HD1-8
+Added Pin To Net: NetName=PB5 Pin=HD1-9
+Added Pin To Net: NetName=PB8 Pin=HD1-10
+Added Pin To Net: NetName=3V3_MCU_STM Pin=HD2-1
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=HD2-2
+Added Pin To Net: NetName=GND Pin=HD2-3
+Added Pin To Net: NetName=GND Pin=HD2-4
+Added Pin To Net: NetName=SPI_MISO Pin=HD2-5
+Added Pin To Net: NetName=SPI_SCK_ESP32 Pin=HD2-6
+Added Pin To Net: NetName=SPI_MOSI Pin=HD2-7
+Added Pin To Net: NetName=SPI_MISO_ESP32 Pin=HD2-8
+Added Pin To Net: NetName=SPI_SCK Pin=HD2-9
+Added Pin To Net: NetName=SPI_MOSI_ESP32 Pin=HD2-10
+Added Pin To Net: NetName=I2C2_SCL_STM Pin=HD3-1
+Added Pin To Net: NetName=I2C_SDA_ESP Pin=HD3-2
+Added Pin To Net: NetName=I2C2_SCL_STM Pin=HD3-3
+Added Pin To Net: NetName=I2C_SDA_ESP Pin=HD3-4
+Added Pin To Net: NetName=I2C2_SDA_STM Pin=HD3-5
+Added Pin To Net: NetName=I2C_SCL_ESP Pin=HD3-6
+Added Pin To Net: NetName=I2C2_SDA_STM Pin=HD3-7
+Added Pin To Net: NetName=I2C_SCL_ESP Pin=HD3-8
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=5V Pin=JP2-2
+Added Pin To Net: NetName=I2C2_SDA_STM Pin=JP2-3
+Added Pin To Net: NetName=I2C2_SCL_STM Pin=JP2-4
+Added Pin To Net: NetName=GND Pin=JP5-1
+Added Pin To Net: NetName=IO6 Pin=JP5-2
+Added Pin To Net: NetName=5V Pin=JP5-3
+Added Pin To Net: NetName=5V Pin=JP6-1
+Added Pin To Net: NetName=IO5 Pin=JP6-2
+Added Pin To Net: NetName=GND Pin=JP6-3
+Change Class Name : Old Net Name=Designator New Net Name=U_AI
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C119 10uF
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C120 105
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C121 10uF
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C122 JP4x2
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C123 105
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component HD2 IDC 5x2
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component HD3 IDC 5x2
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component JP5 LED WS2812
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component JP6 LED WS2812
+Added Room: Name=U_AI

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=5V Pin=H4-1
+Removed Pin From Net: NetName=5V Pin=H4-2
+Removed Pin From Net: NetName=3V3_MCU_ESP Pin=H4-3
+Removed Pin From Net: NetName=3V3_MCU_ESP Pin=H4-4
+Removed Pin From Net: NetName=GND Pin=H6-1
+Removed Pin From Net: NetName=GND Pin=H6-2
+Removed Pin From Net: NetName=GND Pin=H6-3
+Removed Pin From Net: NetName=GND Pin=H6-4
+Removed Member From Class: ClassName=IoT_Board_ESP32 Member=H4
+Removed Member From Class: ClassName=IoT_Board_ESP32 Member=H6
+Added Component: Designator=C111(JP4-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61300821821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C111-1
+Added Pin To Net: NetName=5V Pin=C111-2
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C111-3
+Added Pin To Net: NetName=3V3_MCU_ESP Pin=C111-4
+Added Pin To Net: NetName=GND Pin=C111-5
+Added Pin To Net: NetName=GND Pin=C111-6
+Added Pin To Net: NetName=GND Pin=C111-7
+Added Pin To Net: NetName=GND Pin=C111-8
+Added Member To Class: ClassName=IoT_Board_ESP32 Member=Component C111 JP4x2
